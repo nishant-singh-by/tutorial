@@ -6,3 +6,6 @@ hello Amit1 bro
 hello Amit2 bro
 hello Amit3 bro
 hello Amit4 bro
+c1
+c2
+c3
